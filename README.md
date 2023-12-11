@@ -9,3 +9,5 @@ Ce projet vise à mettre en œuvre un Data Warehouse (DWH) complet et des visual
 - Utilisation de SSIS pour l'ETL (Extraction, Transformation, Chargement) de la source au staging, puis du staging au DWH.
 - Modélisation du DWH à l'aide de SSAS Tabulaire.
 - Création de rapports interactifs avec Power BI pour l'analyse des données.
+
+![arch](https://github.com/ayabbadi/DWH_implementation_project/assets/82125470/0be69696-e691-4983-b52f-3fe0ae383418)
